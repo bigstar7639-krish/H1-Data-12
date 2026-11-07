@@ -28,3 +28,6 @@ A: Link
 Auto Quiz - Sport 🧠
 Q: In what year did William the Conqueror take control of England?
 A: 1066
+Auto Quiz - Football 🧠
+Q: Mirror&#039;s Edge Catalyst takes place in the City of...?
+A: Glass
