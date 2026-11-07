@@ -70,3 +70,4 @@ Anime - anime-clud-2text - Anime Clud 2text
 Anime - anime_20210928 - anime
 Japanese Food - gov.uscourts.nyed.411877 - Ramirez v. Roka Japanese Food Inc.
 Japanese Food - gov.uscourts.nyed.368296 - Chen v. Osaka Japanese Food Service, Inc.
+Sushi - isbn_9781405483162 - Sushi a Classic Collection of Japanese S
