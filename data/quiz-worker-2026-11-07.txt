@@ -46,3 +46,6 @@ A: Reaper
 Auto Quiz - Family 🧠
 Q: Where would you find the &quot;Spanish Steps&quot;?
 A: Rome, Italy
+Auto Quiz - Friendship 🧠
+Q: In what year did the Wall Street Crash take place?
+A: 1929
