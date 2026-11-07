@@ -73,3 +73,6 @@ A: 100 - Science: Mathematics
 Auto Quiz - Future 🧠
 Q: Sciophobia is the fear of what?
 A: Shadows - General Knowledge
+Auto Quiz - Freedom 🧠
+Q: Deuterium is an isotope of which element?
+A: Hydrogen - Science & Nature
