@@ -25,3 +25,6 @@ A: 23 years, 4 months, and 8 days
 Auto Quiz - Game 🧠
 Q: What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?
 A: Link
+Auto Quiz - Sport 🧠
+Q: In what year did William the Conqueror take control of England?
+A: 1066
