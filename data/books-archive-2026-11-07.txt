@@ -77,3 +77,4 @@ Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
 Osaka - jstor-41454474 - JAPAN. Plague at Osaka—Dysentery reappearing epidemically
 Osaka - jstor-41455582 - JAPAN. Plague in Osaka and other localities
 Japanese Temple - japanesetemplebu0000cove - Japanese temple Buddhism : worldliness in a religion of renunciation
+Japanese Temple - japanese-temple-architecture-and-joinery-v-1 - Japanese Temple Architecture & Joinery V1
