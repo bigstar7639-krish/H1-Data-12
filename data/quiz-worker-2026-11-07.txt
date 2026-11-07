@@ -16,3 +16,6 @@ A: London
 Auto Quiz - Sleep 🧠
 Q: What movie starring Bruce Willis contains the line &quot;I see dead people&quot;? 
 A: The Sixth Sense
+Auto Quiz - Beauty 🧠
+Q: In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?
+A: Junkrat and Roadhog
