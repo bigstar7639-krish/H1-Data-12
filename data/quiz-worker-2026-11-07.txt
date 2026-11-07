@@ -13,3 +13,6 @@ A: 2
 Auto Quiz - Diet 🧠
 Q: In which one of these cities did the Great Stink of 1858 occur?
 A: London
+Auto Quiz - Sleep 🧠
+Q: What movie starring Bruce Willis contains the line &quot;I see dead people&quot;? 
+A: The Sixth Sense
