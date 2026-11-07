@@ -130,3 +130,6 @@ A: Christopher Walken - Entertainment: Musicals & Theatres
 Auto Quiz - Chinese Food 🧠
 Q: In what year were achivements added to Steam?
 A: 2007 - Entertainment: Video Games
+Auto Quiz - Shanghai 🧠
+Q: What is the plane curve proposed by Descartes to challenge Fermat's extremum-finding techniques called?
+A: Folium of Descartes - Science: Mathematics
