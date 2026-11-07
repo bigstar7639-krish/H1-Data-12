@@ -88,3 +88,6 @@ A: The Piper at the Gates of Dawn - Entertainment: Music
 Auto Quiz - Tokyo 🧠
 Q: The painting "The Starry Night" by Vincent van Gogh was part of which art movement?
 A: Post-Impressionism - Art
+Auto Quiz - Kimono 🧠
+Q: Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+A: Clipper Chip - Science: Computers
