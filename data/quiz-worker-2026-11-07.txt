@@ -58,3 +58,6 @@ A: 0.44km^2 - Geography
 Auto Quiz - Politics 🧠
 Q: In the English language, what is the name of the "&" character?
 A: Ampersand - General Knowledge
+Auto Quiz - Law 🧠
+Q: What is the largest rapid transit system in the world by number of stations, with 472 stations in operation?
+A: New York City Subway - General Knowledge
