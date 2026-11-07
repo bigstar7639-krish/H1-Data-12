@@ -55,3 +55,6 @@ A: Kiefer Sutherland - Entertainment: Television
 Auto Quiz - Economics 🧠
 Q: What is the area of Vatican City?
 A: 0.44km^2 - Geography
+Auto Quiz - Politics 🧠
+Q: In the English language, what is the name of the "&" character?
+A: Ampersand - General Knowledge
