@@ -27,3 +27,4 @@ Friendship - Friendship is a relationship of mutual affection between people. It
 Study - Study or studies may refer to:
 Philosophy - Philosophy is a systematic study of general and fundamental questions concerning topics like existence, knowledge, mind, reason, language, and value. It is a rational and critical inquiry that reflects on its methods and assumptions.
 Economics - Economics is a social science that studies the production, distribution, and consumption of goods and services.
+Politics - Politics is the activity of settling affairs in an organized society. Politics is usually concerned with resolving issues within a society via a government. Politicians are individuals engaged in the activity of politics. The branch of social science that studies politics and government is referred to as political science.
