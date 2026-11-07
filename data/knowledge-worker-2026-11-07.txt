@@ -26,3 +26,4 @@ Family - Family is a group of people related either by consanguinity or affinity
 Friendship - Friendship is a relationship of mutual affection between people. It is a stronger form of interpersonal bond than an "acquaintance" or an "association", such as a classmate, neighbor, coworker, or colleague.
 Study - Study or studies may refer to:
 Philosophy - Philosophy is a systematic study of general and fundamental questions concerning topics like existence, knowledge, mind, reason, language, and value. It is a rational and critical inquiry that reflects on its methods and assumptions.
+Economics - Economics is a social science that studies the production, distribution, and consumption of goods and services.
