@@ -884,3 +884,5 @@ Story 5478
 Oru chinna new york la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Emotion Q 5479 - happy?
 Aira: Super! Happy ah irukka!
+Coding Q 5480 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
