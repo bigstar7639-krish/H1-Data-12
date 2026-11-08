@@ -601,3 +601,6 @@ A: Elton John - Entertainment: Film
 Knowledge Quiz
 Q: In Star Trek: The Next Generation, what is the name of Data's cat?
 A: Spot - Entertainment: Television
+Knowledge Quiz
+Q: When was the board game Twister, released to the public?
+A: April 1966 - Entertainment: Board Games
