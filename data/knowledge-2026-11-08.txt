@@ -289,3 +289,6 @@ A: Bob Dylan - Entertainment: Music
 Knowledge Quiz
 Q: In the Super Smash Bros. series, which game first featured Luigi as a playable character?
 A: Super Smash Bros. - Entertainment: Video Games
+Knowledge Quiz
+Q: Who wrote the lyrics for Leonard Bernstein's 1957 Brodway musical West Side Story?
+A: Stephen Sondheim - Entertainment: Musicals & Theatres
