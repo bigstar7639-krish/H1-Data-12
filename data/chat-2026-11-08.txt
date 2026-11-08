@@ -542,3 +542,4 @@ Smart Q 5280 - Internet la eppadi jeyikkarathu?
 Emotion Q 5281 - excited?
 Aira: Excited ah! Sollu!
 Movie 5282 - Jailer - Rajini - Mass!
+Quote 5283 - Daily try pannu - Jeyichiduva! - Aira
