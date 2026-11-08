@@ -256,3 +256,4 @@ Knowledge 5123 - Harry Potter - Hey buddy! 🙌 Naan Aira, un friend‑aana 
 | **Big Bad**
 Health 5124 - Health Tip: Daily 30 min walk ponga!
 Vocab 5125 - Happy = Santhosham
+Quote 5126 - Daily try pannu - Jeyichiduva! - Aira
