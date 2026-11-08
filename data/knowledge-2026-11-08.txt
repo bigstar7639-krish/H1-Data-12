@@ -480,3 +480,6 @@ A: 1962  - Celebrities
 Knowledge Quiz
 Q: What term is best associated with Sigmund Freud?
 A: Psychoanalysis - Science & Nature
+Knowledge Quiz
+Q: The mobile game "Jetpack Joyride" was released in what year? 
+A: 2011 - Entertainment: Video Games
