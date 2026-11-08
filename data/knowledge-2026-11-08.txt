@@ -654,3 +654,6 @@ A: Jonas Salk - Science & Nature
 Knowledge Quiz
 Q: What does the computer software acronym JVM stand for?
 A: Java Virtual Machine - Science: Computers
+Knowledge Quiz
+Q: Who was the first mammal successfully launched into Earth's orbit?
+A: Laika, the dog - History
