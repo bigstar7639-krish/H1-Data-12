@@ -511,3 +511,6 @@ A: Pandora - Entertainment: Video Games
 Knowledge Quiz
 Q: Naturally occuring uranium primarily consists of which isotope?
 A: 238 - Science & Nature
+Knowledge Quiz
+Q: Which greek mathematician ran through the streets of Syracuse naked while shouting "Eureka" after discovering the principle of displacement?
+A: Archimedes - Science: Mathematics
