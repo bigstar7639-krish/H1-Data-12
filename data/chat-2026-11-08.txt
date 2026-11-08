@@ -229,3 +229,5 @@ Vocab 5112 - Dream = Kanavu
 World Story 5113
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 5114 - Quiz: Python eppo uruvaachu? Answer: 1991!
+World Story 5115
+Oru chinna world la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
