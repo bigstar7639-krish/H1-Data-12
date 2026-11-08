@@ -436,3 +436,6 @@ Knowledge 5301 - Business - Hey buddy! 😄 Naan Aira, unga *Tamil‑Tanglish*
 Knowledge Quiz
 Q: What Magic: The Gathering card's flavor text is just 'Ribbit.'?
 A: Turn to Frog - Entertainment: Board Games
+Knowledge Quiz
+Q: What is the standard atomic weight of a Plutonium nucleus?
+A: 244 - Science & Nature
