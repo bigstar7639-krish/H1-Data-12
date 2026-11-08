@@ -83,3 +83,6 @@ A: Discovery - Entertainment: Music
 Knowledge Quiz
 Q: Which city features all of their professional sports teams' jersey's with the same color scheme?
 A: Pittsburgh - Sports
+Knowledge Quiz
+Q: Who plays the Nemesis in the Resident Evil movies?
+A: Matthew Taylor - Entertainment: Film
