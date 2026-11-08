@@ -415,3 +415,6 @@ A: Dogs - General Knowledge
 Knowledge Quiz
 Q: Which of the following countries was the first to send an object into space?
 A: Germany - History
+Knowledge Quiz
+Q: What is the standard frame rate for animation?
+A: 24 FPS - Entertainment: Cartoon & Animations
