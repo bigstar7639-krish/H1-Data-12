@@ -875,3 +875,4 @@ Health 5470 - Health Tip: Fruits daily saapdunga!
 Reading 5471 - Alchemist!
 Talk 5472 - Education pathi pesalama? Sollu!
 Movie 5473 - Ponniyin Selvan - Kalki!
+Quote 5474 - Daily try pannu - Jeyichiduva! - Aira
