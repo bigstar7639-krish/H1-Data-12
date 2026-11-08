@@ -110,3 +110,5 @@ Story 5050
 Oru city la oru teacher irunthan! Daily help pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
 Story 5051
 Oru chinna world la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 5052 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
