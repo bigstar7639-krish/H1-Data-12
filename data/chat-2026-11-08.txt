@@ -820,3 +820,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Vocab 5436 - Friend = Nanban
 Emotion Q 5437 - angry?
 Aira: Kovam ah? Deep breath edu!
+Emotion Q 5438 - love?
+Aira: Kadhal - Azhagu!
