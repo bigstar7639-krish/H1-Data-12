@@ -74,3 +74,6 @@ Knowledge 5046 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz
 Q: What national team won the first UEFA Nations League?
 A: Portugal - Sports
+Knowledge Quiz
+Q: What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?
+A: José Rizal - History
