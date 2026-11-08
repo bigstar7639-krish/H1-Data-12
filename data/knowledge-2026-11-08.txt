@@ -505,3 +505,6 @@ A: 3 - Geography
 Knowledge Quiz
 Q: The co-creator of Gorillaz, Damon Albarn, is also the lead singer of what band?
 A: Blur - Entertainment: Music
+Knowledge Quiz
+Q: In the 2000 video game "Crimson Skies," what was the name of the protagonists' zeppelin?
+A: Pandora - Entertainment: Video Games
