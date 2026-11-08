@@ -344,3 +344,6 @@ A: Warrior Takemikazuchi - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: How many square faces does a cube have?
 A: 6 - Science: Mathematics
+Knowledge Quiz
+Q: What year did the New Orleans Saints win the Super Bowl?
+A: 2010 - Sports
