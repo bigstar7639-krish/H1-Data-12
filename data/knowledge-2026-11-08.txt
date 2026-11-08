@@ -648,3 +648,6 @@ A: 8 - General Knowledge
 Knowledge Quiz
 Q: How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?
 A: 8 hours - Entertainment: Video Games
+Knowledge Quiz
+Q: Who developed the first successful polio vaccine in the 1950s?
+A: Jonas Salk - Science & Nature
