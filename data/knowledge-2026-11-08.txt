@@ -335,3 +335,6 @@ A: Wayne Rooney - Sports
 Knowledge Quiz
 Q: Which programming language shares its name with an island in Indonesia?
 A: Java - Science: Computers
+Knowledge Quiz
+Q: "The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?
+A: Portal 2 - Entertainment: Video Games
