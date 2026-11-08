@@ -332,3 +332,6 @@ A: Sticks the Badger - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is Manchester United's top premier league goal scorer?
 A: Wayne Rooney - Sports
+Knowledge Quiz
+Q: Which programming language shares its name with an island in Indonesia?
+A: Java - Science: Computers
