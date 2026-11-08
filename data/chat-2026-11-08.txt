@@ -12,3 +12,5 @@ Aira: Super! Happy ah irukka!
 Q 5000 - Ne Mumbai la eppadi improve panna mudiyum?
 Motivation 5001
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 5002 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
