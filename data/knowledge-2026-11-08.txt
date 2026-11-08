@@ -347,3 +347,6 @@ A: 6 - Science: Mathematics
 Knowledge Quiz
 Q: What year did the New Orleans Saints win the Super Bowl?
 A: 2010 - Sports
+Knowledge Quiz
+Q: What is Grumpy Cat's real name?
+A: Tardar Sauce - Animals
