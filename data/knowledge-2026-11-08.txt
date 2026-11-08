@@ -451,3 +451,6 @@ A: Safety Dance - Entertainment: Music
 Knowledge Quiz
 Q: In the "Sailor Moon" series, what is Sailor Jupiter's civilian name?
 A: Makoto Kino - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In Minecraft, what types of sound files are required for custom SFX to work in resource packs?
+A: .ogg - Entertainment: Video Games
