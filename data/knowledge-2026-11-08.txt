@@ -775,3 +775,6 @@ A: Panau - Entertainment: Video Games
 Knowledge Quiz
 Q: The cake depicted in Valve's "Portal" franchise most closely resembles which real-world type of cake?
 A: Black Forest - Entertainment: Video Games
+Knowledge Quiz
+Q: In the movie "Blade Runner", what is the term used for human-like androids ?
+A: Replicants - Entertainment: Film
