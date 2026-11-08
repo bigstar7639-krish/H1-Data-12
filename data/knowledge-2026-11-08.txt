@@ -632,3 +632,6 @@ A: Sierra On-Line - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the mascot of SEGA before "Sonic the Hedgehog"?
 A: Alex Kidd - Entertainment: Video Games
+Knowledge Quiz
+Q: What did the name of the Tor Anonymity Network orignially stand for?
+A: The Onion Router - Science: Computers
