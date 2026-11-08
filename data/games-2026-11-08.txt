@@ -28,3 +28,4 @@ Game 5340 - Coin Toss - Ne Toss nu Sollu!
 Game 5352 - Dice - Ne Dice nu Sollu!
 Game 5391 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 5411 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 5499 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
