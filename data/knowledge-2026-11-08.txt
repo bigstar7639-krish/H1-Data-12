@@ -517,3 +517,6 @@ A: Archimedes - Science: Mathematics
 Knowledge Quiz
 Q: What comes after a Million, a Billion, and a Trillion?
 A: Quadrillion - Science: Mathematics
+Knowledge Quiz
+Q: What is the name of the only remaining Grand Duchy in the world ?
+A: Luxembourg - Geography
