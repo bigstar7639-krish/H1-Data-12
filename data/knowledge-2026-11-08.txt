@@ -286,3 +286,6 @@ A: Albus Percival Wulfric Brian Dumbledore - Entertainment: Books
 Knowledge Quiz
 Q: In August 1964, who introduced the Beatles to cannabis?
 A: Bob Dylan - Entertainment: Music
+Knowledge Quiz
+Q: In the Super Smash Bros. series, which game first featured Luigi as a playable character?
+A: Super Smash Bros. - Entertainment: Video Games
