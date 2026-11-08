@@ -158,3 +158,5 @@ Teacher: Yen late? Student: School Ahead board!
 Kavithai 5072 - Un Sirippu - En Vazhkai! - Aira
 Thirukkural 5073 - Anbu - Ellam Tharum! - Thirukkural
 Game 5074 - Dice - Ne Dice nu Sollu!
+Joke 5075
+Teacher: Yen late? Student: School Ahead board!
