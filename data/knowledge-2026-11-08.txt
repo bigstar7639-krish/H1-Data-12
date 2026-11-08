@@ -544,3 +544,6 @@ A: Coins - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the scientific name of the knee cap?
 A: Patella - Science & Nature
+Knowledge Quiz
+Q: What is the "powerhouse" of the Eukaryotic animal cell?
+A: Mitochondria - Science & Nature
