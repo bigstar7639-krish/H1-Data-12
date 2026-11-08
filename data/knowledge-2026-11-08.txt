@@ -657,3 +657,6 @@ A: Java Virtual Machine - Science: Computers
 Knowledge Quiz
 Q: Who was the first mammal successfully launched into Earth's orbit?
 A: Laika, the dog - History
+Knowledge Quiz
+Q: Which character in Touhou is able to control dolls?
+A: Alice Margatroid - Entertainment: Japanese Anime & Manga
