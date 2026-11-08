@@ -325,3 +325,4 @@ Fact 219 - Tamil - 2000+ varusha mozhi!
 Coding Q 5168 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Vocab 5169 - Friend = Nanban
+Business Idea 5170 - Tuition - Veetla Tuition!
