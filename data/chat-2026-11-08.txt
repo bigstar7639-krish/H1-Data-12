@@ -556,3 +556,5 @@ Fact 226 - Tamil - 2000+ varusha mozhi!
 Pazhamozhi 5292 - Sontha Kaal la Ninnu - Jeyippa!
 Joke 5293
 Why bike sad? Petrol illa!
+Coding Q 5294 - React la component enna?
+Aira: React component - Chinna piece!
