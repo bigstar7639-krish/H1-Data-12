@@ -265,3 +265,6 @@ A: Mercury - General Knowledge
 Knowledge Quiz
 Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
 A: Dunning-Kruger effect - Science & Nature
+Knowledge Quiz
+Q: What colour is the female blackbird?
+A: Brown - Animals
