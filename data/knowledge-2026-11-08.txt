@@ -651,3 +651,6 @@ A: 8 hours - Entertainment: Video Games
 Knowledge Quiz
 Q: Who developed the first successful polio vaccine in the 1950s?
 A: Jonas Salk - Science & Nature
+Knowledge Quiz
+Q: What does the computer software acronym JVM stand for?
+A: Java Virtual Machine - Science: Computers
