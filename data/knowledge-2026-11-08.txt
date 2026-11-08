@@ -534,3 +534,6 @@ A: 1UZ-FE - Vehicles
 Knowledge Quiz
 Q: "The A Team" first aired in the USA and in the UK in what year?
 A: 1983 - Entertainment: Television
+Knowledge Quiz
+Q: Who co-founded the YouTube Let's Play channel "Game Grumps" alongside Newgrounds animator Egoraptor?
+A: JonTron - Entertainment: Television
