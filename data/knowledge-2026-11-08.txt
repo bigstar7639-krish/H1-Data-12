@@ -732,3 +732,6 @@ A: Steve Buscemi - Entertainment: Film
 Knowledge Quiz
 Q: When was Tesla founded?
 A: 2003 - Vehicles
+Knowledge Quiz
+Q: A mathematical constant, known as "The Golden Ratio", is most commonly represented by which greek letter?
+A: Φ (phi) - Science: Mathematics
