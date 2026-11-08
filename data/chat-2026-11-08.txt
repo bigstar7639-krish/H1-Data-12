@@ -22,3 +22,4 @@ Thirukkural 5006 - Anbu - Ellam Tharum! - Thirukkural
 Quote 5007 - Daily try pannu - Jeyichiduva! - Aira
 Movie 5008 - Jailer - Rajini - Mass!
 Kavithai 5009 - Un Sirippu - En Vazhkai! - Aira
+Recipe 5010 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
