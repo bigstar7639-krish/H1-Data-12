@@ -110,3 +110,6 @@ A: Steven Erikson - Entertainment: Books
 Knowledge Quiz
 Q: A criminal who has “cooked the books” has engaged in what kind of illegal behavior?
 A: Accounting Fraud - General Knowledge
+Knowledge Quiz
+Q: While Apple was formed in California, in which western state was Microsoft founded?
+A: New Mexico - Science: Computers
