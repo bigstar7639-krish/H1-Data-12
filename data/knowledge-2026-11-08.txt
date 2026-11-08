@@ -477,3 +477,6 @@ A: DeForest - Entertainment: Film
 Knowledge Quiz
 Q: Gabe Newell was born in which year?
 A: 1962  - Celebrities
+Knowledge Quiz
+Q: What term is best associated with Sigmund Freud?
+A: Psychoanalysis - Science & Nature
