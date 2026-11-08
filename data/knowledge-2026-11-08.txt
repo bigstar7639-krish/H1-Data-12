@@ -556,3 +556,6 @@ A: Red Lion - General Knowledge
 Knowledge Quiz
 Q: Who is the lead singer of Foo Fighters?
 A: Dave Grohl - Entertainment: Music
+Knowledge Quiz
+Q: What year was the Italian firearms manufacturer Beretta founded?
+A: 1526 - History
