@@ -113,3 +113,4 @@ Oru chinna world la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana
 Coding Q 5052 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Kavithai 5053 - Un Sirippu - En Vazhkai! - Aira
+Quote 5054 - Daily try pannu - Jeyichiduva! - Aira
