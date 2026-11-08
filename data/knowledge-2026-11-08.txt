@@ -629,3 +629,6 @@ A: Frog - Animals
 Knowledge Quiz
 Q: Who published the 1998 video game Half-Life?
 A: Sierra On-Line - Entertainment: Video Games
+Knowledge Quiz
+Q: Who was the mascot of SEGA before "Sonic the Hedgehog"?
+A: Alex Kidd - Entertainment: Video Games
