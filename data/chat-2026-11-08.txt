@@ -259,3 +259,4 @@ Vocab 5125 - Happy = Santhosham
 Quote 5126 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 5127 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Vocab 5128 - Love = Kadhal
