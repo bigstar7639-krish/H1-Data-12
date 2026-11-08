@@ -184,3 +184,6 @@ A: Empire State Building, United States - General Knowledge
 Knowledge Quiz
 Q: What is the relationship between the band members of American rock band King of Leon?
 A: Brothers & cousins - Entertainment: Music
+Knowledge Quiz
+Q: What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?
+A: Category 5 - Science & Nature
