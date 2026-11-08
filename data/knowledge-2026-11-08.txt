@@ -782,3 +782,6 @@ Knowledge 5535 - Mahabharata - Mahabharata pathi sollu - Nalla question! Daily t
 Knowledge Quiz
 Q: Which soccer team won the Copa América Centenario 2016?
 A: Chile - Sports
+Knowledge Quiz
+Q: Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?
+A: Les Paul Standard - Entertainment: Music
