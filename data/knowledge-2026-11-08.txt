@@ -61,3 +61,6 @@ A: Bulldog - General Knowledge
 Knowledge Quiz
 Q: Which of the following rappers were NOT part of the hip-hop group Odd Future?
 A: Vince Staples - Entertainment: Music
+Knowledge Quiz
+Q: Who is the creator of the free, open-source rhythm game 'osu!'?
+A: Dean 'Peppy' Herbert - Entertainment: Video Games
