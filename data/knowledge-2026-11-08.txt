@@ -693,3 +693,6 @@ A: Mario Kart Arcade GP DX - Entertainment: Video Games
 Knowledge Quiz
 Q: In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?
 A: Hell Knight - Entertainment: Video Games
+Knowledge Quiz
+Q: Who directed the movies "Pulp Fiction", "Reservoir Dogs" and "Django Unchained"?
+A: Quentin Tarantino - Entertainment: Film
