@@ -304,3 +304,6 @@ A: Para-Zone - Entertainment: Comics
 Knowledge Quiz
 Q: Which of these is NOT a part of the structure of a typical neuron?
 A: Islets of Langerhans - Science & Nature
+Knowledge Quiz
+Q: What is the capital of Australia?
+A: Canberra - Geography
