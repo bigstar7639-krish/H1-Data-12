@@ -122,3 +122,6 @@ A: 50 mph - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following vehicles featured a full glass roof at base model?
 A: Renault Avantime - Vehicles
+Knowledge Quiz
+Q: What was the first game in the "Battlefield" series?
+A: Battlefield 1942 - Entertainment: Video Games
