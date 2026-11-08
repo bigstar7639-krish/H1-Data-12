@@ -502,3 +502,4 @@ Thirukkural 5262 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Q 5263 - Unakku Robot pathi enna theriyum?
 Recipe 5264 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Game 5265 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Recipe 5266 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
