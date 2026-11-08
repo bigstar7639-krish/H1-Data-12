@@ -696,3 +696,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Business Idea 5367 - Instagram Page - Daily 1 Post!
 Health 5368 - Health Tip: Fruits daily saapdunga!
 Recipe 5369 - Snacks - Potato + Masala - Crispy!
+Thirukkural 5370 - Kattrathu - Kai Mann Alavu! - Thirukkural
