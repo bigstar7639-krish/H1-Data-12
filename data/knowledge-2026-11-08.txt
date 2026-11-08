@@ -553,3 +553,6 @@ A: Ainz Ooal Gown - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: According to the BBPA, what is the most common pub name in the UK?
 A: Red Lion - General Knowledge
+Knowledge Quiz
+Q: Who is the lead singer of Foo Fighters?
+A: Dave Grohl - Entertainment: Music
