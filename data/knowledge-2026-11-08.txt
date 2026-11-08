@@ -595,3 +595,6 @@ A: Markus Persson - Entertainment: Video Games
 Knowledge Quiz
 Q: "The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?
 A: Portal 2 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which musical artist had a prominent role in the 2017 film "Kingsman: The Golden Circle"?
+A: Elton John - Entertainment: Film
