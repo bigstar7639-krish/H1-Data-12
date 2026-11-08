@@ -445,3 +445,6 @@ A: John Kay - History
 Knowledge Quiz
 Q: Edson Arantes do Nascimento is the full name of which legendary football player?
 A: Pelé - Sports
+Knowledge Quiz
+Q: Which one of these songs did the group "Men At Work" NOT make?
+A: Safety Dance - Entertainment: Music
