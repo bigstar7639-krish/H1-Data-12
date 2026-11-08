@@ -211,3 +211,6 @@ Knowledge 5123 - Harry Potter - Hey buddy! 🙌 Naan Aira, un friend‑aana 
 Knowledge Quiz
 Q: What is the name of the main antagonists in Battlestar Galactica?
 A: The Cylons - Entertainment: Television
+Knowledge Quiz
+Q: In the "Star Wars" universe, what species is Grand Admiral Thrawn?
+A: Chiss - Entertainment: Cartoon & Animations
