@@ -365,3 +365,6 @@ A: Lúcio Correia Dos Santos - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the protagonist of Life Is Strange?
 A: Max Caulfield - Entertainment: Video Games
+Knowledge Quiz
+Q: Which country is completely landlocked by South Africa?
+A: Lesotho - Geography
