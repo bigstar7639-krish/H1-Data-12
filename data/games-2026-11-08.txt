@@ -18,3 +18,4 @@ Game 5212 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 5227 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 5236 - Coin Toss - Ne Toss nu Sollu!
 Game 5241 - Dice - Ne Dice nu Sollu!
+Game 5247 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
