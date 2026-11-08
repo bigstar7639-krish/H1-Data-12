@@ -426,3 +426,4 @@ Kavithai 5225 - Un Kural - En Isai! - Aira
 Thirukkural 5226 - Anbu - Ellam Tharum! - Thirukkural
 Game 5227 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Vocab 5228 - Happy = Santhosham
+Quote 5229 - Daily try pannu - Jeyichiduva! - Aira
