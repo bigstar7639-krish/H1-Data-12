@@ -506,3 +506,5 @@ Recipe 5266 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Business Idea 5267 - Instagram Page - Daily 1 Post!
 Coding Q 5268 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Story 5269
+Oru chinna city la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
