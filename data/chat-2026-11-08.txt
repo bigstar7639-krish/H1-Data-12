@@ -100,3 +100,4 @@ Q 5042 - Future pathi oru story kekkura?
 Q 5043 - Ne Confidence la eppadi improve panna mudiyum?
 Story 5044
 Oru chinna chennai la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Reading 5045 - Python Crash Course!
