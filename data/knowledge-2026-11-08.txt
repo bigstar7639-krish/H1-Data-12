@@ -274,3 +274,6 @@ A: Lima - Geography
 Knowledge Quiz
 Q: In "Magic: The Gathering", what instant card has the highest converted mana cost?
 A: Blinkmoth Infusion - Entertainment: Board Games
+Knowledge Quiz
+Q: The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?
+A: Navarre - History
