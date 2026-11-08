@@ -691,3 +691,5 @@ Aira AI: Hey buddy! Ne courage (சாகசம்) நீ மேல
 ## 2️⃣ Reframe Fear – பயத்தை மறுபரிசீலனை செய்  
 - **Fear = Signal:** “இது என் comfort zone‑ல இல்லை” என்ற signal ஆகக் கொள். “Danger” அல்ல.  
 - **What‑if scenario:** “If I fail, what’s the worst that can happen?” என்று எழுதிப் பார்க்கும் 
+Coding Q 5366 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
