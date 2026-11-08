@@ -64,3 +64,6 @@ A: Vince Staples - Entertainment: Music
 Knowledge Quiz
 Q: Who is the creator of the free, open-source rhythm game 'osu!'?
 A: Dean 'Peppy' Herbert - Entertainment: Video Games
+Knowledge Quiz
+Q: Which stage was planned to be a part of "Sonic the Hedgehog 2", but was scrapped during development?
+A: Genocide City Zone - Entertainment: Video Games
