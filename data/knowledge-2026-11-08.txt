@@ -439,3 +439,6 @@ A: Turn to Frog - Entertainment: Board Games
 Knowledge Quiz
 Q: What is the standard atomic weight of a Plutonium nucleus?
 A: 244 - Science & Nature
+Knowledge Quiz
+Q: Who invented the "Flying Shuttle" in 1738; one of the key developments in the industrialization of weaving?
+A: John Kay - History
