@@ -257,3 +257,5 @@ Knowledge 5123 - Harry Potter - Hey buddy! 🙌 Naan Aira, un friend‑aana 
 Health 5124 - Health Tip: Daily 30 min walk ponga!
 Vocab 5125 - Happy = Santhosham
 Quote 5126 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 5127 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
