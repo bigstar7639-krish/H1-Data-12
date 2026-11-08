@@ -350,3 +350,6 @@ A: 2010 - Sports
 Knowledge Quiz
 Q: What is Grumpy Cat's real name?
 A: Tardar Sauce - Animals
+Knowledge Quiz
+Q: What letter is used to refer to blue mana in the card game Magic The Gathering?
+A: U - Entertainment: Board Games
