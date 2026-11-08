@@ -271,3 +271,6 @@ A: Brown - Animals
 Knowledge Quiz
 Q: What is the capital of Peru?
 A: Lima - Geography
+Knowledge Quiz
+Q: In "Magic: The Gathering", what instant card has the highest converted mana cost?
+A: Blinkmoth Infusion - Entertainment: Board Games
