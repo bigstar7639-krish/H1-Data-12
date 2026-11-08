@@ -268,3 +268,6 @@ A: Dunning-Kruger effect - Science & Nature
 Knowledge Quiz
 Q: What colour is the female blackbird?
 A: Brown - Animals
+Knowledge Quiz
+Q: What is the capital of Peru?
+A: Lima - Geography
