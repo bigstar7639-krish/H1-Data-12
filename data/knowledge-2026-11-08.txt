@@ -531,3 +531,6 @@ Knowledge 5378 - New York - New York pathi sollu - Nalla question! Daily try pan
 Knowledge Quiz
 Q: What engine is in the Lexus SC400?
 A: 1UZ-FE - Vehicles
+Knowledge Quiz
+Q: "The A Team" first aired in the USA and in the UK in what year?
+A: 1983 - Entertainment: Television
