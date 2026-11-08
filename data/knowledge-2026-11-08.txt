@@ -735,3 +735,6 @@ A: 2003 - Vehicles
 Knowledge Quiz
 Q: A mathematical constant, known as "The Golden Ratio", is most commonly represented by which greek letter?
 A: Φ (phi) - Science: Mathematics
+Knowledge Quiz
+Q: Which of these songs was released in 1996?
+A: The Smashing Pumpkins - "1979" - Entertainment: Music
