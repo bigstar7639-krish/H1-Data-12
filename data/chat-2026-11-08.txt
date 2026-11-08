@@ -890,3 +890,17 @@ Business Idea 5481 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Joke 5482
 Why bike sad? Petrol illa!
 Movie 5483 - Jailer - Rajini - Mass!
+Knowledge 5484 - Animals - Hey buddy! 🐾  
+Animals pathi solla thonuthu, so let’s do a quick **Tamil‑Tanglish** tour of the animal kingdom.  
+
+---
+
+## 1️⃣ Animal Kingdom Overview  
+**Kingdom Animalia** – ithu *multicellular*, *heterotrophic* (food ah eat panni survive pannura) creatures-oda group. Ithu 5 major groups (phylums) la split aagum:
+
+| Phylum | Example Animals | Key Features |
+|--------|----------------|--------------|
+| **Chordata** | Mammals (elephant, tiger), birds (parrot, eagle), reptiles (crocodile), amphibians (frog), fish (salmon) | Backbone + spinal cord |
+| **Arthropoda** | Insects (butterfly, ant), crustaceans (crab, shrimp), arachnids (spider) | Segmented body, exoskeleton |
+| **Mollusca** | Snails, octopus, clams | Soft body, often with shell |
+| **Annelida** | Earthworms, leeches | Segmented w
