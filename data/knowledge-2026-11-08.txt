@@ -262,3 +262,6 @@ A: Sudbury, Ontario - Geography
 Knowledge Quiz
 Q: What is the closest planet to our solar system's sun?
 A: Mercury - General Knowledge
+Knowledge Quiz
+Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
+A: Dunning-Kruger effect - Science & Nature
