@@ -60,3 +60,4 @@ Oru madurai la oru teacher irunthan! Daily coding pannan pannan! Oru naal dream 
 Coding Q 5024 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Aira AI: Newton pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Recipe 5026 - Snacks - Potato + Masala - Crispy!
