@@ -259,3 +259,6 @@ A: Jelly Bean - Science: Computers
 Knowledge Quiz
 Q: In which city is the Big Nickel located in Canada?
 A: Sudbury, Ontario - Geography
+Knowledge Quiz
+Q: What is the closest planet to our solar system's sun?
+A: Mercury - General Knowledge
