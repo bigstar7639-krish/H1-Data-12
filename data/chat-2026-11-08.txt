@@ -990,3 +990,4 @@ Fact 238 - Octopus ku 3 heart!
 Movie 5521 - Harry Potter - Magic!
 Recipe 5522 - Cake - Maida + Sugar + Egg + 30 min!
 Smart Q 5523 - Chennai la eppadi jeyikkarathu?
+Game 5524 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
