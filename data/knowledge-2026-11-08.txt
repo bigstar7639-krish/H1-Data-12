@@ -604,3 +604,6 @@ A: Spot - Entertainment: Television
 Knowledge Quiz
 Q: When was the board game Twister, released to the public?
 A: April 1966 - Entertainment: Board Games
+Knowledge Quiz
+Q: Which of these cities has a 4° East longitude. 
+A: Amsterdam - Geography
