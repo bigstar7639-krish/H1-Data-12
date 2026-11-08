@@ -341,3 +341,6 @@ A: Portal 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Overlord Anime who was Cocytus made by?
 A: Warrior Takemikazuchi - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: How many square faces does a cube have?
+A: 6 - Science: Mathematics
