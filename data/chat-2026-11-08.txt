@@ -992,3 +992,4 @@ Recipe 5522 - Cake - Maida + Sugar + Egg + 30 min!
 Smart Q 5523 - Chennai la eppadi jeyikkarathu?
 Game 5524 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Movie 5525 - Leo - Vijay - Action!
+Talk 5526 - Star pathi pesalama? Sollu!
