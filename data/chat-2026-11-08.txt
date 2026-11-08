@@ -336,3 +336,5 @@ Story 5177
 Oru delhi la oru student irunthan! Daily dream pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Emotion Q 5178 - bored?
 Aira: Bored ah? Joke sollattuma?
+Emotion Q 5179 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
