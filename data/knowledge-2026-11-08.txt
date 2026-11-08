@@ -722,3 +722,6 @@ Fitness = **உடலின் overall health** – strength, stamina, flexibili
 Knowledge Quiz
 Q: How much weight did Chris Pratt lose for his role as Star-Lord in "Guardians of the Galaxy"?
 A: 60 lbs - Celebrities
+Knowledge Quiz
+Q: Which of these did mathematician Leonhard Euler NOT develop?
+A: An improvement to the Fast Fourier Transform - Science: Mathematics
