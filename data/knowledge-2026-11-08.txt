@@ -162,3 +162,6 @@ Knowledge 5096 - Meditation - Hey buddy! 🙌 நான் Aira, உங்க�
 Knowledge Quiz
 Q: What word represents the letter 'T' in the NATO phonetic alphabet?
 A: Tango - General Knowledge
+Knowledge Quiz
+Q: Which Star Trek race advances itself through assimilation?
+A: Borg - Entertainment: Television
