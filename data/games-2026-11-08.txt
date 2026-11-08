@@ -9,3 +9,4 @@ Game 5108 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 5114 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 5120 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 5121 - Coin Toss - Ne Toss nu Sollu!
+Game 5131 - Dice - Ne Dice nu Sollu!
