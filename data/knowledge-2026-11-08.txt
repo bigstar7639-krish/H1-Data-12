@@ -729,3 +729,6 @@ Knowledge 5507 - Diet - Diet pathi sollu - Nalla question! Daily try pannu - Jey
 Knowledge Quiz
 Q: Which of the following actors does not play a role in the movie "The Usual Suspects?"
 A: Steve Buscemi - Entertainment: Film
+Knowledge Quiz
+Q: When was Tesla founded?
+A: 2003 - Vehicles
