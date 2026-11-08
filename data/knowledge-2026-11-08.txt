@@ -638,3 +638,6 @@ A: The Onion Router - Science: Computers
 Knowledge Quiz
 Q: America Online (AOL) started out as which of these online service providers?
 A: Quantum Link - Science: Computers
+Knowledge Quiz
+Q: Hippocampus is the Latin name for which marine creature?
+A: Seahorse - Animals
