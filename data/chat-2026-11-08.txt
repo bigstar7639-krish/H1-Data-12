@@ -882,3 +882,5 @@ Story 5477
 Oru chinna chennai la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Story 5478
 Oru chinna new york la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 5479 - happy?
+Aira: Super! Happy ah irukka!
