@@ -187,3 +187,6 @@ A: Brothers & cousins - Entertainment: Music
 Knowledge Quiz
 Q: What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?
 A: Category 5 - Science & Nature
+Knowledge Quiz
+Q: What company developed the Xbox line of video game consoles?
+A: Microsoft - Entertainment: Video Games
