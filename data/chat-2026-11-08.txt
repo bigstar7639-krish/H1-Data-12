@@ -232,3 +232,4 @@ Game 5114 - Quiz: Python eppo uruvaachu? Answer: 1991!
 World Story 5115
 Oru chinna world la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Kavithai 5116 - Un Sirippu - En Vazhkai! - Aira
+Fact 214 - Octopus ku 3 heart!
