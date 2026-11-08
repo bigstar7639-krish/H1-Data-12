@@ -118,3 +118,5 @@ Vocab 5055 - Peace = Amaithi
 Talk 5056 - Freedom pathi pesalama? Sollu!
 Joke 5057
 Teacher: Yen late? Student: School Ahead board!
+World Story 5058
+Oru delhi la oru rani irunthan! Daily coding pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
