@@ -11,3 +11,4 @@ Game 5120 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 5121 - Coin Toss - Ne Toss nu Sollu!
 Game 5131 - Dice - Ne Dice nu Sollu!
 Game 5140 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 5141 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
