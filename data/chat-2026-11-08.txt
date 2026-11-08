@@ -674,3 +674,4 @@ Coding Q 5357 - React la component enna?
 Aira: React component - Chinna piece!
 Q 5358 - Magic pathi oru story kekkura?
 Vocab 5359 - Courage = Thairiyam
+Business Idea 5360 - Instagram Page - Daily 1 Post!
