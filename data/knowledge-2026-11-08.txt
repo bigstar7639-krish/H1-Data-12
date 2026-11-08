@@ -356,3 +356,6 @@ A: U - Entertainment: Board Games
 Knowledge Quiz
 Q: Chino Moreno is the lead singer of which alternative metal band?
 A: Deftones - Entertainment: Music
+Knowledge Quiz
+Q: In "Kingdom Hearts", what mission are Donald and Goofy assigned by King Mickey?
+A: To find the Key bearer and stick with him! - Entertainment: Video Games
