@@ -711,3 +711,5 @@ Knowledge 5378 - New York - New York pathi sollu - Nalla question! Daily try pan
 Q 5379 - Animals pathi oru story kekkura?
 Q 5380 - Unakku Robot pathi enna theriyum?
 Vocab 5381 - Kindness = Anbu
+Story 5382
+Oru delhi la oru farmer irunthan! Daily pray pannaan pannan! Oru naal dream kedaichuchu! Life maariduchu!
