@@ -7,3 +7,4 @@ chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
 chi - xijing-ribao-1939.07.10 - 西京日報 1939.07.10
 hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
 hin - in.gov.bih.gazette.2015-10-01.1110 - Bihar Gazette, 2015-10-01, Extra Ordinary
+tel - in.gazette.andhra_extraordinary.2026-09-29.760 - Andhra Pradesh Extraordinary Gazette, 2026-09-29, Extraordinary, Part II, Number 760
