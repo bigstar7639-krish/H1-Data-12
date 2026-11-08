@@ -508,3 +508,6 @@ A: Blur - Entertainment: Music
 Knowledge Quiz
 Q: In the 2000 video game "Crimson Skies," what was the name of the protagonists' zeppelin?
 A: Pandora - Entertainment: Video Games
+Knowledge Quiz
+Q: Naturally occuring uranium primarily consists of which isotope?
+A: 238 - Science & Nature
