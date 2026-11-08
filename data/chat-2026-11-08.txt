@@ -322,3 +322,5 @@ Emotion Q 5165 - love?
 Aira: Kadhal - Azhagu!
 Q 5166 - Tamil Nadu pathi oru secret sollatta?
 Fact 219 - Tamil - 2000+ varusha mozhi!
+Coding Q 5168 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
