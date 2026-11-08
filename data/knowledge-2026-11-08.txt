@@ -253,3 +253,6 @@ A: A-Spec - Entertainment: Video Games
 Knowledge Quiz
 Q: In the series JoJo's Bizarre Adventure, which main character makes the greatest number of recurring appearances?
 A: Jotaro Kujo - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What was the name given to Android 4.3?
+A: Jelly Bean - Science: Computers
