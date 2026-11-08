@@ -237,3 +237,5 @@ Pazhamozhi 5118 - Aalai Paathu - Aadi Paaru!
 Fact 215 - Octopus ku 3 heart!
 Game 5120 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 5121 - Coin Toss - Ne Toss nu Sollu!
+Story 5122
+Oru chinna mountain la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
