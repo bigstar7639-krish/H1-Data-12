@@ -190,3 +190,6 @@ A: Category 5 - Science & Nature
 Knowledge Quiz
 Q: What company developed the Xbox line of video game consoles?
 A: Microsoft - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?
+A: Golden Mushroom - Entertainment: Video Games
