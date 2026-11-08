@@ -738,3 +738,6 @@ A: Φ (phi) - Science: Mathematics
 Knowledge Quiz
 Q: Which of these songs was released in 1996?
 A: The Smashing Pumpkins - "1979" - Entertainment: Music
+Knowledge Quiz
+Q: Which one of these colors are not featured in Mondrian's Broadway Boogie-Woogie?
+A: Green - Art
