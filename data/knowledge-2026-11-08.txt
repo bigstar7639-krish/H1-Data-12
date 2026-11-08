@@ -626,3 +626,6 @@ A: Nearsighted Jeego - Entertainment: Video Games
 Knowledge Quiz
 Q: Which species is a "mountain chicken"?
 A: Frog - Animals
+Knowledge Quiz
+Q: Who published the 1998 video game Half-Life?
+A: Sierra On-Line - Entertainment: Video Games
