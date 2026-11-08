@@ -435,3 +435,22 @@ Health 5233 - Health Tip: 7 mani neram thoongunga!
 Thirukkural 5234 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Reading 5235 - Ponniyin Selvan - Kalki!
 Game 5236 - Coin Toss - Ne Toss nu Sollu!
+Aira AI: Hey buddy! 🙌  
+Maths‑la oru **secret** solraen… “**Kaprekar’s Constant 6174**” nu kettu irukka? Ippa naan unga‑kku adha step‑by‑step explain panren—**Tamil‑Tanglish** style, plus a sprinkle of “all language” vibe! 😎
+
+---
+
+## 🎯 Secret: 6174 – The Magic Number
+
+### 1️⃣ How it works (simple steps)
+
+1. **Pick any 4‑digit number** (but all digits can’t be the same – like 1111, 2222, etc.).
+2. **Arrange the digits in descending order** → get a big number **A**.  
+   Example: 3524 → **5432**.  
+3. **Arrange the digits in ascending order** → get a small number **B**.  
+   Same example: 3524 → **2345**.
+4. **Subtract**: `A – B = C`.  
+   5432 – 2345 = **3087**.
+5. **Repeat** steps 2‑4 with the new number **C**.
+
+Do this **again and again** and… **you’ll always land on 6174** (within at most 7 itera
