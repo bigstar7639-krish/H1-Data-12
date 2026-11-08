@@ -277,3 +277,6 @@ A: Blinkmoth Infusion - Entertainment: Board Games
 Knowledge Quiz
 Q: The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?
 A: Navarre - History
+Knowledge Quiz
+Q: Who invented the "Flying Shuttle" in 1738; one of the key developments in the industrialization of weaving?
+A: John Kay - History
