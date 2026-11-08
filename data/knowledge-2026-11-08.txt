@@ -256,3 +256,6 @@ A: Jotaro Kujo - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What was the name given to Android 4.3?
 A: Jelly Bean - Science: Computers
+Knowledge Quiz
+Q: In which city is the Big Nickel located in Canada?
+A: Sudbury, Ontario - Geography
