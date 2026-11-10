@@ -693,3 +693,18 @@ Q+A Katha - Computer 🧠
 Question: Which of these places is a location in Cornwall?
 
 Answer: Barcelona - Geography. Itha kelvi Computer pathi - Answer Barcelona. Computer pathi kelvi patta oru ponnu, ava daily Computer pathi yosichittu iruntha, oru naal ava oru puthu book padichu Computer oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Computer ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Computer la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Book 🧠
+
+Question: In the "Jurassic Park" universe, when did "Jurassic Park: San Diego" begin construction?
+
+Answer: 1985 - Entertainment: Film. Itha kelvi Book pathi - Answer 1985. Book pathi kelvi patta oru ponnu, ava daily Book pathi yosichittu iruntha, oru naal ava oru puthu book padichu Book oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Book ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Book la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Kavithai 🧠
+
+Question: What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?
+
+Answer: Longyearbyen - Geography. Itha kelvi Kavithai pathi - Answer Longyearbyen. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Kavithai pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Kavithai la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Kavithai oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Thirukkural 🧠
+
+Question: What were the first two blocks in "Minecraft"?
+
+Answer: Grass and Cobblestone - Entertainment: Video Games. Itha kelvi Thirukkural pathi - Answer Grass and Cobblestone. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Thirukkural pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Thirukkural la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Thirukkural oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
