@@ -122,3 +122,5 @@ Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
 Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
 Cricket - bwb_KV-028-408 - It Isn't Cricket
 Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
+Story - storyofchurch0000char_i4n8 - The Story of the Church
+Story - christmasstory0000unse_g3f0 - THE CHRISTMAS STORY
