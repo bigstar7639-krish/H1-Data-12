@@ -144,3 +144,9 @@ River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coas
 River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
 Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Sky - SkyCity_201702 - Sky City
+Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
+Moon - ducksacrossmoonl0000keno - Ducks across the Moon: Life on eighty acres in the Flint HIlls
+Moon - moononruins0000brad - Moon on the ruins
+Sun - 2024-02-08-0022 - Quincy Sun Feb 08 2024
+Sun - bwb_S0-EBZ-996 - Be gentle with me for i love you as i love the sun
