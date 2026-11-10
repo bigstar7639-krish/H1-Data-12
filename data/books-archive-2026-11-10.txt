@@ -74,3 +74,5 @@ Psychology - isbn_070345708 - Social psychology
 Psychology - readingsinhistor0000wayn_j2w7 - Readings in the History of Psychology
 Philosophy - fightsmarternoth1094568348 - FIGHT SMARTER, NOT HARDER: MCDP-7 – REINVIGORATING THE PHILOSOPHY OF MANEUVER WARFARE THROUGH LEARNING
 Philosophy - worldasspectacle0000gust_s4m8_c9j9 - The World as Spectacle An Aesthetic View of Philosophy
+Economics - moderneconomics0000arth - modern economics
+Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
